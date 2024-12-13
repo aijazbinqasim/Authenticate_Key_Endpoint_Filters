@@ -1,0 +1,6 @@
+@Authenticate_Key_Endpoint_Filters_HostAddress = http://localhost:5192
+
+GET {{Authenticate_Key_Endpoint_Filters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
